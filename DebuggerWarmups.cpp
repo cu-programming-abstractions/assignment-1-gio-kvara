@@ -28,7 +28,7 @@ using namespace std;
 /* TODO: Fill this in with your name before reading the story. Otherwise
  * you'll get the wrong story!
  */
-const string MyName = "(Your Name Here)";
+const string MyName = "KVARA";
 
 namespace {
     void theEnd() {
